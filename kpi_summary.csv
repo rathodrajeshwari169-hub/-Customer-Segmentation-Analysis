@@ -1,0 +1,6 @@
+segment_code,segment_label,n_customers,pct_total,avg_spend,total_revenue_proxy,avg_repeats,avg_rating,promo_rate_pct,subscription_rate_pct,avg_loyalty_A,avg_loyalty_B,avg_annualised_value
+S1,High-Value Loyal,549,14.1,90.89,49897.0,26.1,3.83,0.0,0.0,0.338,0.768,1533.4
+S4,Promo-Habituated Spenders,402,10.3,90.48,36373.0,26.42,3.76,100.0,63.9,0.495,0.514,1534.6
+S0,General Buyers,2400,61.5,52.86,126869.0,28.25,3.73,36.7,23.5,0.407,0.515,945.2
+S2,Promo-Dependent Buyers,395,10.1,39.05,15425.0,12.68,3.75,100.0,58.7,0.395,0.218,637.2
+S5,Low-Value Occasional,154,3.9,29.33,4517.0,7.23,3.81,0.0,0.0,0.218,0.401,473.0
